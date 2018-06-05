@@ -1,21 +1,46 @@
 # Programming (12 weeks Plan) 
 
-Week1- 6/4
-Week2- 6/11
-Week3- 6/18
-Week4- 6/25(Find Job and Prepare)
-Week5- 7/2
-Week6- 7/9
-Week7- 7/16
-Week8- 7/23
-Week9- 7/30
-Week10- 8/6
-Week11- 8/13
-Week12- 8/20
+## Week1 - 6/4
+1. Udemy SQL
+2. [Stanford SQL Course](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+3. [Stanford SQL Course Homepage](http://web.stanford.edu/class/cs145/)
+
+## Week2- 6/11
+- [Tableau]
+- [Excel]
+- [Python 3 Bootcamp](https://www.udemy.com/complete-python-bootcamp/)
+
+## Week3- 6/18
+#### Main (Follow the MIT Courses Syllabus)
+- [MIT Stat Course Overview](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/calendar/)
+- [Online Statistics Learning Book](http://onlinestatbook.com/2/index.html)
+
+#### Supplement 
+- [Probaility](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+- [Exam P Prob](https://www.youtube.com/watch?v=1WONKtD2-Yw&list=PLOw9lluHPKfFja9xiHoV0voroJVN0ePB3)
+- [Prob Book with Video](http://www.math.wm.edu/~leemis/videos/probability/)
+- [Harvard Prob Course](https://www.edx.org/course/introduction-to-probability-0)
+- [PennState Prob & Stat Webpage](https://newonlinecourses.science.psu.edu/stat414/node/17/)
+- [Math Stat](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/)
+## Week4- 6/25(Find Job and Prepare)
+- Project
+- Interview Question
+
+
+## Week5- 7/2
+## Week6- 7/9
+## Week7- 7/16
+## Week8- 7/23
+## Week9- 7/30
+## Week10- 8/6
+## Week11- 8/13
+## Week12- 8/20
 
 
 ## Materials
-- [Probaility](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+
+
+
 - [Python 3 Bootcamp](https://www.udemy.com/complete-python-bootcamp/)
 - [Python Data Science](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 - [Data Structure & Algorithm](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)
