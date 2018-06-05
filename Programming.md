@@ -29,4 +29,5 @@ Week12- 8/20
 ## Interview
 -[Glassdoor Interview Questions]https://www.glassdoor.com/Interview/data-analyst-interview-questions-SRCH_KO0,12_SDMC.htm
 -http://www.maassmedia.com/2016/09/26/5-questions-data-analyst-interview/
+-https://www.listendata.com/2017/01/data-analyst-interview-questions.html
 - Prepare all questions about own projects.
