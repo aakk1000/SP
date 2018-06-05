@@ -23,9 +23,12 @@
 - [PennState Prob & Stat Webpage](https://newonlinecourses.science.psu.edu/stat414/node/17/)
 - [Math Stat](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/)
 ## Week4- 6/25(Find Job and Prepare)
-- Project
-- Interview Question
-
+#### Project
+#### Interview Question
+- [Glassdoor Interview Questions](https://www.glassdoor.com/Interview/data-analyst-interview-questions-SRCH_KO0,12_SDMC.htm)
+- [5 QUESTIONS TO ASK A DATA ANALYST DURING THE INTERVIEW](http://www.maassmedia.com/2016/09/26/5-questions-data-analyst-interview/)
+- [50 DATA ANALYST INTERVIEW QUESTIONS](https://www.listendata.com/2017/01/data-analyst-interview-questions.html)
+- Prepare all questions about own projects.
 
 ## Week5- 7/2
 ## Week6- 7/9
@@ -53,8 +56,3 @@
 ## Project
 1. college confidential  
 2.
-## Interview
-- [Glassdoor Interview Questions]https://www.glassdoor.com/Interview/data-analyst-interview-questions-SRCH_KO0,12_SDMC.htm
-- http://www.maassmedia.com/2016/09/26/5-questions-data-analyst-interview/
-- https://www.listendata.com/2017/01/data-analyst-interview-questions.html
-- Prepare all questions about own projects.
