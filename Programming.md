@@ -22,7 +22,9 @@ Week12- 8/20
 - [Data Structure & Algorithm](https://www.udacity.com/course/technical-interview--ud513)
 - [Data Structure & Algorithm(Just First two Course)]https://www.coursera.org/specializations/data-structures-algorithms
 - [Discrete Math](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
--[Tableau]
+- [Tableau]
+- [FBA]
+
 ## Project
 1. college confidential  
 2.
