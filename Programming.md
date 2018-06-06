@@ -28,6 +28,8 @@
 - [Glassdoor Interview Questions](https://www.glassdoor.com/Interview/data-analyst-interview-questions-SRCH_KO0,12_SDMC.htm)
 - [5 QUESTIONS TO ASK A DATA ANALYST DURING THE INTERVIEW](http://www.maassmedia.com/2016/09/26/5-questions-data-analyst-interview/)
 - [50 DATA ANALYST INTERVIEW QUESTIONS](https://www.listendata.com/2017/01/data-analyst-interview-questions.html)
+- [Indeed interview questions](https://www.indeed.com/hire/interview-questions/data-analyst)
+- https://www.snagajob.com/resources/data-analyst-job-interview-questions/
 - Prepare all questions about own projects.
 
 ## Week5- 7/2
