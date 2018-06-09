@@ -6,6 +6,7 @@
 3. [Stanford SQL Course Homepage](http://web.stanford.edu/class/cs145/)
 
 ## Week2- 6/11
+- SQL Project
 - [Tableau]
 - [Excel]
 - [Python 3 Bootcamp](https://www.udemy.com/complete-python-bootcamp/)
@@ -57,4 +58,4 @@
 
 ## Project
 1. college confidential  
-2.
+2. SQL Project
