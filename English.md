@@ -1,12 +1,25 @@
-# English
+# English 
+#### No Chinese Rule- Don't use, read and speak chinese in daily life.
+#### Write down things you cannot express in English on notebook
+
 ## Phonetics
 ## Practice
-- Glassdoor interview question
--this AM life 跟讀
--[conversation question by topics](https://basicenglishspeaking.com/daily-english-conversation-topics/)
+‧ http://www.dailyesl.com/
+  - A topic every day
+  1. Listen part 1
+  2. Go to part 4 learn the vocabs and do exercise
+  3. Practice with Part 2 and compare
+  * Write down the useful phrase or vocab on notebook
+  
 ## Vocab
-- COCA 10000. 100 per day
+‧ COCA 10000.
+  -100 per day
+
+
 ## Phrasal Verb
-## 基本溝通句型
- 
- 
+‧ [Phrasal Verbs](http://www.bmstu.ru/ps/~sunnymood77/fileman/download/phrasal_verbs_list.pdf) 
+  - 30 vocabs per day
+  - make up a new senetence for every word
+## Conversational sentences
+‧ 美國街頭巷尾 
+  - 20 sentences per day
