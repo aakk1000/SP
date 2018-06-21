@@ -14,8 +14,10 @@
 ## Vocab
 ‧ COCA 10000.
   -100 per day
-
-
+  1.Check English Dictionary 
+  2.Memorize while checking the Dictionary (if it turned out is a waste of time, find a list with word and meaning)
+  3.Input the word and meaning to Quizlet
+  4.Test and review following the forgetting curve
 ## Phrasal Verb
 ‧ [Phrasal Verbs](http://www.bmstu.ru/ps/~sunnymood77/fileman/download/phrasal_verbs_list.pdf) 
   - 30 vocabs per day
