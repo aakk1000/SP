@@ -3,7 +3,7 @@
 
 ## 6/28 - 7/7
 ##### Most Importment Things Needed to Do
-- Yelp Project (With Python) -[Example](https://github.com/wihl/cs109-groupproj-college)
+- Yelp Project (With Python)
 - [Tableau]
 - [Python 3 Bootcamp](https://www.udemy.com/complete-python-bootcamp/)
 - [Udemy Python Data Science Bootcamp]
