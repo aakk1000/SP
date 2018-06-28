@@ -12,8 +12,8 @@
 
 #### Main 
 ##### Follow the syllabi/Topic of the following two courses
--[清華大學-機率論]http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.html
--[清華大學-數理統計]http://www.stat.nthu.edu.tw/~swcheng/Teaching/stat3875/index.html
+- [清華大學-機率論]http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.html
+- [清華大學-數理統計]http://www.stat.nthu.edu.tw/~swcheng/Teaching/stat3875/index.html
 - [Online Statistics Learning Book](http://onlinestatbook.com/2/index.html)
 ###### Supplement 
 - [Probaility](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
