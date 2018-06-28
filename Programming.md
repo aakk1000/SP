@@ -1,17 +1,21 @@
 # Programming (12 weeks Plan) 
 
 
-## Week3- 6/18
-- SQL Project (With Python) -[Example](https://github.com/wihl/cs109-groupproj-college)
+## 6/28 - 7/7
+##### Most Importment Things Needed to Do
+- Yelp Project (With Python) -[Example](https://github.com/wihl/cs109-groupproj-college)
 - [Tableau]
 - [Python 3 Bootcamp](https://www.udemy.com/complete-python-bootcamp/)
+- [Udemy Python Data Science Bootcamp]
+###### Supplement 
 - [Harvard CS109(Data Science)](http://cs109.github.io/2015/pages/videos.html)
 
-## Week 3.5- 6/22
-#### Main (Follow the MIT Courses Syllabus)
-- [MIT Stat Course Overview](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/calendar/)
+#### Main 
+#####Follow the syllabi/Topic of the following two courses
+-[清華大學-機率論]http://www.stat.nthu.edu.tw/~swcheng/Teaching/math2810/index.html
+-[清華大學-數理統計]http://www.stat.nthu.edu.tw/~swcheng/Teaching/stat3875/index.html
 - [Online Statistics Learning Book](http://onlinestatbook.com/2/index.html)
-#### Supplement 
+###### Supplement 
 - [Probaility](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 - [Exam P Prob](https://www.youtube.com/watch?v=1WONKtD2-Yw&list=PLOw9lluHPKfFja9xiHoV0voroJVN0ePB3)
 - [Prob Book with Video](http://www.math.wm.edu/~leemis/videos/probability/)
@@ -19,7 +23,7 @@
 - [PennState Prob & Stat Webpage](https://newonlinecourses.science.psu.edu/stat414/node/17/)
 - [Math Stat](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/)
 
-## Week4- 6/25(Find Job and Prepare)
+## Week4- 7/2 (The date starts to find jobs and prepare)
 #### Project
 #### Interview Question
 - [Glassdoor Interview Questions](https://www.glassdoor.com/Interview/data-analyst-interview-questions-SRCH_KO0,12_SDMC.htm)
