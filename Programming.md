@@ -7,7 +7,7 @@
 - Racing Porject 
 ## Before interview
 - Prob and Stat
-- Data science skill with Python (udemy)
+- Data science skill with Python (udemy)([Python for everyone](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf))
 - NoSql(basic from youtube)
 - Data Wrangling ([Data Wrangling with python book](https://github.com/Shivanandroy/Study-Materials/blob/master/Data%20Wrangling%20with%20Python.pdf))
 - basic XML and CSS
