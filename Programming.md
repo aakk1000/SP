@@ -1,6 +1,20 @@
 # Programming (12 weeks Plan) 
 
-
+## After all interviews
+- Django
+- NoSql
+- Courses from UIUC master programs
+- Racing Porject 
+## Before interview
+- Prob and Stat
+- Data science skill with Python (udemy)
+- NoSql(basic from youtube)
+- Data Wrangling (Data Wrangling with python book)
+- basic XML and CSS
+- Excel 
+- Github old projects fixes (Racing and Stat 154 projects)
+- Yelp Project
+- interview questions
 ## 6/28 - 7/7
 ##### Most Importment Things Needed to Do
 - Yelp Project (With Python)
