@@ -7,13 +7,13 @@
 - Racing Porject 
 - Deeper Data Wrangling (Web Scraping & Data Cleaning)
   - [Data Wrangling with python book](https://github.com/Shivanandroy/Study-Materials/blob/master/Data%20Wrangling%20with%20Python.pdf))
-  - [Web Scraping with Python Collecting Data from the Modern Web]()
+  - [Web Scraping with Python Collecting Data from the Modern Web](http://index-of.es/Varios/Ryan%20Mitchell-Web%20Scraping%20with%20Python_%20Collecting%20Data%20from%20the%20Modern%20Web-O'Reilly%20Media%20(2015).pdf)
   - [Python for Data Analysis](http://opencarts.org/sachlaptrinh/pdf/28232.pdf)
 ## Before interview
 - Prob and Stat
 - Data science skill with Python (udemy)([Python for everyone](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf))
 - NoSql(basic from youtube)
-- Data Wrangling ([Data Wrangling with python book](https://github.com/Shivanandroy/Study-Materials/blob/master/Data%20Wrangling%20with%20Python.pdf))
+- Data Wrangling -[Data Wrangling with python book](https://github.com/Shivanandroy/Study-Materials/blob/master/Data%20Wrangling%20with%20Python.pdf))
 - basic XML and CSS
 - Excel 
 - Github old projects fixes (Racing and Stat 154 projects)
