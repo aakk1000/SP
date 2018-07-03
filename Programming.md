@@ -5,6 +5,10 @@
 - NoSql
 - Courses from UIUC master programs
 - Racing Porject 
+- Deeper Data Wrangling (Web Scraping & Data Cleaning)
+  - [Data Wrangling with python book](https://github.com/Shivanandroy/Study-Materials/blob/master/Data%20Wrangling%20with%20Python.pdf))
+  - [Web Scraping with Python Collecting Data from the Modern Web]()
+  - [Python for Data Analysis](http://opencarts.org/sachlaptrinh/pdf/28232.pdf)
 ## Before interview
 - Prob and Stat
 - Data science skill with Python (udemy)([Python for everyone](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf))
@@ -14,7 +18,13 @@
 - Excel 
 - Github old projects fixes (Racing and Stat 154 projects)
 - Yelp Project
+  -[Sklearn 與 TensorFlow 機器學習實用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 - interview questions
+- informatica
+  - [Learn Informatica In 60 Minutes](https://www.youtube.com/watch?v=3scD3llibJA)
+  - [Learning Path for ETL Design Informatica](https://dwbi.org/etl/informatica)
+ 
+
 ## 6/28 - 7/7
 ##### Most Importment Things Needed to Do
 - Yelp Project (With Python)
