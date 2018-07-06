@@ -13,7 +13,7 @@
 - Prob and Stat
 - Data science skill with Python (udemy)([Python for everyone](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf))
 - NoSql(basic from youtube)
-- Data Wrangling -[Data Wrangling with python book](https://github.com/Shivanandroy/Study-Materials/blob/master/Data%20Wrangling%20with%20Python.pdf))
+- Data Wrangling(唔好學到太深入,基本BeautifulSoup+Html+CSS)-[Data Wrangling with python book](https://github.com/Shivanandroy/Study-Materials/blob/master/Data%20Wrangling%20with%20Python.pdf)
 - basic XML and CSS
 - Excel 
 - Github old projects fixes (Racing and Stat 154 projects)
